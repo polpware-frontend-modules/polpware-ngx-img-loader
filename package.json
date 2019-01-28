@@ -1,0 +1,21 @@
+{
+  "name": "@polpware/ngx-img-loader",
+  "version": "7.0.0",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/polpware-ngx-img-loader.umd.js",
+  "module": "fesm5/polpware-ngx-img-loader.js",
+  "es2015": "fesm2015/polpware-ngx-img-loader.js",
+  "esm5": "esm5/polpware-ngx-img-loader.js",
+  "esm2015": "esm2015/polpware-ngx-img-loader.js",
+  "fesm5": "fesm5/polpware-ngx-img-loader.js",
+  "fesm2015": "fesm2015/polpware-ngx-img-loader.js",
+  "typings": "polpware-ngx-img-loader.d.ts",
+  "metadata": "polpware-ngx-img-loader.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
